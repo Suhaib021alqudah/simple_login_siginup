@@ -8,13 +8,13 @@ All screens are fully responsive and easy to customize.
 ## 🖼️ Screenshots
 
 ### 🚀 Splash Screen
-![Splash Screen](assets/readme/splashscreen.png)
+![Splash Screen](screenshots/splashscreen.png)
 
 ### 🔐 Login Screen
-![Login Screen](assets/readme/login.png)
+![Login Screen](screenshots/login.png)
 
 ### 📝 Sign Up Screen
-![Sign Up Screen](assets/readme/signup.png)
+![Sign Up Screen](screenshots/siginup.png)
 
 > Make sure to place these exact images in:  
 > `assets/readme/`
