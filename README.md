@@ -3,7 +3,7 @@
 A clean and modern Flutter UI that includes Splash Screen, Login Screen, and Sign-Up Screen.  
 All screens are fully responsive and easy to customize.
 
----
+
 
 ## 🖼️ Screenshots
 
@@ -16,10 +16,7 @@ All screens are fully responsive and easy to customize.
 ### 📝 Sign Up Screen
 ![Sign Up Screen](screenshots/siginup.png)
 
-> Make sure to place these exact images in:  
-> `assets/readme/`
 
----
 
 ## 🔧 Features
 
@@ -32,7 +29,7 @@ All screens are fully responsive and easy to customize.
 - Social login icons (Facebook – Google – Apple)  
 - Responsive layout for all devices  
 
----
+
 
 ## 📦 How to Run
 
@@ -48,10 +45,10 @@ flutter run
 yaml
 Copy code
 
----
+
 
 ## 🛠️ Dependencies
-```yaml
+yaml
 dependencies:
   flutter:
     sdk: flutter
