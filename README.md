@@ -1,13 +1,48 @@
-# 📱 Flutter UI Sample – Login / ٌ Register
+# 📱 Flutter UI Sample – Login / Onboarding Screen
 
-This project is a simple Flutter application that includes a clean welcome screen with text, an image, and input fields/buttons based on the provided design.
+A simple Flutter UI project containing a clean welcome screen with text, an image, and input fields.
 
 ---
 
 ## 🔧 Features
+- Clean welcome/onboarding UI  
+- Google Fonts  
+- Asset images  
+- Simple TextField/TextFormField usage  
 
-- Clean Welcome / Onboarding UI  
-- Google Fonts support  
-- Using images from assets  
-- TextField / TextFormField (can be used without Containers)  
-- Easy-to-edit and well-structured UI  
+---
+
+## 📦 How to Run
+
+Install packages:
+flutter pub get
+
+yaml
+Copy code
+
+Run the app:
+flutter run
+
+yaml
+Copy code
+
+---
+
+## 🛠️ Dependencies
+```yaml
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+📝 Assets
+Add images inside:
+
+bash
+Copy code
+assets/images/
+Enable assets in pubspec.yaml:
+
+yaml
+Copy code
+assets:
+  - assets/images/
