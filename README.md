@@ -1,14 +1,36 @@
-# 📱 Flutter UI Sample – Login / Onboarding Screen
+# 📱 MNZL Flutter UI – Authentication Screens
 
-A simple Flutter UI project containing a clean welcome screen with text, an image, and input fields.
+A clean and modern Flutter UI that includes Splash Screen, Login Screen, and Sign-Up Screen.  
+All screens are fully responsive and easy to customize.
+
+---
+
+## 🖼️ Screenshots
+
+### 🚀 Splash Screen
+![Splash Screen](assets/readme/splashscreen.png)
+
+### 🔐 Login Screen
+![Login Screen](assets/readme/login.png)
+
+### 📝 Sign Up Screen
+![Sign Up Screen](assets/readme/signup.png)
+
+> Make sure to place these exact images in:  
+> `assets/readme/`
 
 ---
 
 ## 🔧 Features
-- Clean welcome/onboarding UI  
+
+- Splash Screen  
+- Login Screen (Email / Username / Password)  
+- Sign Up Screen with 6 fields  
+- Clean UI with soft colors  
 - Google Fonts  
-- Asset images  
-- Simple TextField/TextFormField usage  
+- Custom input fields  
+- Social login icons (Facebook – Google – Apple)  
+- Responsive layout for all devices  
 
 ---
 
@@ -34,15 +56,21 @@ dependencies:
   flutter:
     sdk: flutter
   google_fonts: ^6.1.0
-📝 Assets
-Add images inside:
-
+📝 Assets Setup
+1️⃣ Create this folder structure:
+Copy code
+assets/
+ └── images/
+ └── readme/
+2️⃣ Put the README images here:
 bash
 Copy code
-assets/images/
-Enable assets in pubspec.yaml:
-
+assets/readme/splashscreen.png
+assets/readme/login.png
+assets/readme/signup.png
+3️⃣ Enable assets in pubspec.yaml:
 yaml
 Copy code
 assets:
   - assets/images/
+  - assets/readme/
