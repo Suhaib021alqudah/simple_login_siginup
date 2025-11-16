@@ -1,4 +1,4 @@
-# 📱 MNZL Flutter UI – Authentication Screens
+# 📱  Flutter UI – Authentication Screens
 
 A clean and modern Flutter UI that includes Splash Screen, Login Screen, and Sign-Up Screen.  
 All screens are fully responsive and easy to customize.
